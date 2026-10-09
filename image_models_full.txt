@@ -1,82 +1,82 @@
-taoxugit/AttnGAN
-nerdyrodent/VQGAN-CLIP
-openai/glide-text2im
-CompVis/ldm-text2im-large-256
-zai-org/CogView2
-kuprel/min-dalle
-CompVis/stable-diffusion-v1-1
-CompVis/stable-diffusion-v1-2
-CompVis/stable-diffusion-v1-3
-CompVis/stable-diffusion-v1-4
-stable-diffusion-v1-5/stable-diffusion-v1-5
-ai-forever/Kandinsky_2.0
-sd2-community/stable-diffusion-2
-sd2-community/stable-diffusion-2-base
-sd2-community/stable-diffusion-2-1
-sd2-community/stable-diffusion-2-1-base
-kandinsky-community/kandinsky-2-1
-DeepFloyd/IF-I-XL-v1.0
-DeepFloyd/IF-I-L-v1.0
-DeepFloyd/IF-I-M-v1.0
-stabilityai/stable-diffusion-xl-base-0.9
-stabilityai/stable-diffusion-xl-refiner-0.9
-kandinsky-community/kandinsky-2-2-decoder
-stabilityai/stable-diffusion-xl-base-1.0
-stabilityai/stable-diffusion-xl-refiner-1.0
-segmind/small-sd
-segmind/tiny-sd
-segmind/tiny-sd-mxfinetune
-warp-ai/wuerstchen
-warp-ai/wuerstchen-prior-model-base
-warp-ai/wuerstchen-prior-model-finetuned
-SimianLuo/LCM_Dreamshaper_v7
-segmind/SSD-1B
-PixArt-alpha/PixArt-XL-2-1024-MS
-latent-consistency/lcm-lora-sdv1-5
-latent-consistency/lcm-lora-sdxl
-latent-consistency/lcm-lora-ssd-1b
-latent-consistency/lcm-sdxl
-latent-consistency/lcm-ssd-1b
-kandinsky-community/kandinsky-3
-playgroundai/playground-v1
-stabilityai/sdxl-turbo
-stabilityai/sd-turbo
-playgroundai/playground-v2-1024px-aesthetic
-playgroundai/playground-v2-256px-base
-playgroundai/playground-v2-512px-base
-segmind/Segmind-Vega
-segmind/Segmind-VegaRT
-amused/amused-256
-amused/amused-512
-stabilityai/stable-cascade
-playgroundai/playground-v2.5-1024px-aesthetic
-ByteDance/SDXL-Lightning
-ai-forever/Kandinsky3.1
-stabilityai/cosxl
-PixArt-alpha/PixArt-Sigma-XL-2-1024-MS
+AttnGAN COCO three-stage text-to-image GAN
+Nerdy Rodent VQGAN plus CLIP latent optimization
+OpenAI GLIDE small filtered-data two-stage text-to-image
+CompVis LDM text-to-image large 256
+CogView2 CogLM + DSR + Iterative SR
+DALL-E Mini Mega native autoregressive generator
+Stable Diffusion v1-1
+Stable Diffusion v1-2
+Stable Diffusion v1-3
+Stable Diffusion v1.4
+Stable Diffusion v1.5
+Kandinsky 2.0 native text-to-image
+Stable Diffusion 2
+Stable Diffusion 2 Base
+Stable Diffusion 2.1
+Stable Diffusion 2.1 Base
+Kandinsky 2.1 prior + decoder
+DeepFloyd IF-I-XL v1.0
+DeepFloyd IF-I-L → IF-II-L → x4 upscaler
+DeepFloyd IF-I-M → IF-II-M → x4 upscaler
+SDXL Base 0.9
+SDXL base 0.9 → refiner 0.9
+Kandinsky 2.2 prior + decoder
+SDXL Base 1.0
+SDXL base 1.0 → refiner 1.0
+Segmind small-SD
+Segmind tiny-SD
+Segmind tiny-SD MX fine-tune
+Wuerstchen v2 prior + decoder
+Wuerstchen v2 base prior + decoder
+Wuerstchen v2 finetuned prior + decoder
+LCM Dreamshaper v7
+Segmind SSD-1B
+PixArt-XL-2-1024-MS
+LCM-LoRA SD 1.5 (canonical base)
+LCM-LoRA SDXL
+LCM-LoRA SSD-1B
+LCM SDXL full-parameter UNet + SDXL base
+LCM SSD-1B full-parameter UNet + SSD-1B base
+Kandinsky 3 Diffusers
+Playground v1
+SDXL Turbo
+SD-Turbo
+Playground v2 1024px aesthetic
+Playground v2 256px base
+Playground v2 512px base
+Segmind Vega
+Segmind VegaRT (Vega + LCM LoRA)
+Amused 256
+Amused 512
+Stable Cascade
+Playground v2.5 1024px Aesthetic
+SDXL Lightning
+Kandinsky 3.1 Flash native
+Cos Stable Diffusion XL 1.0
+PixArt-Sigma-XL-2-1024-MS
 Alpha-VLLM/Lumina-T2I
-ByteDance/Hyper-SD
+Hyper-SD
 Alpha-VLLM/Lumina-Next-T2I
-Tencent-Hunyuan/HunyuanDiT
-stabilityai/stable-diffusion-3-medium
+HunyuanDiT
+Stable Diffusion 3 Medium
 Alpha-VLLM/Lumina-Next-SFT-diffusers
-Kwai-Kolors/Kolors
-black-forest-labs/FLUX.1-dev
-black-forest-labs/FLUX.1-dev-FP8
-black-forest-labs/FLUX.1-dev-NVFP4
-black-forest-labs/FLUX.1-schnell
-fal/AuraFlow-v0.3
-zai-org/CogView3-Plus-3B
-MeissonFlow/Meissonic
-deepseek-ai/Janus-1.3B
-BAAI/Emu3-Stage1
-Shitao/OmniGen-v1
-stabilityai/stable-diffusion-3.5-large
-stabilityai/stable-diffusion-3.5-large-turbo
-BAAI/Emu3-Gen-hf
-Collov-Labs/Monetico
-stabilityai/stable-diffusion-3.5-medium
-deepseek-ai/JanusFlow-1.3B
+Kolors
+FLUX.1-dev
+FLUX.1-dev FP8
+FLUX.1-dev NVFP4
+FLUX.1 [schnell]
+AuraFlow v0.3
+CogView3 Plus 3B
+Meissonic masked-token image generator
+DeepSeek Janus 1.3B VQ autoregressive image generator
+BAAI Emu3 Stage1 512px image generator
+OmniGen-v1
+Stable Diffusion 3.5 Large
+Stable Diffusion 3.5 Large Turbo
+BAAI Emu3-Gen HF integrated image generator
+Collov-Labs Monetico masked-token generator
+Stable Diffusion 3.5 Medium
+DeepSeek JanusFlow 1.3B rectified-flow image generator
 Efficient-Large-Model/Sana_1600M_1024px_diffusers
 Efficient-Large-Model/Sana_1600M_1024px_BF16_diffusers
 Efficient-Large-Model/Sana_1600M_1024px_MultiLing_diffusers
@@ -85,102 +85,102 @@ Efficient-Large-Model/Sana_1600M_512px_MultiLing_diffusers
 Efficient-Large-Model/Sana_600M_1024px_diffusers
 Efficient-Large-Model/Sana_600M_512px_diffusers
 Efficient-Large-Model/Sana_1600M_2Kpx_BF16_diffusers
-FoundationVision/Infinity
+Infinity 2B
 Efficient-Large-Model/Sana_1600M_4Kpx_BF16_diffusers
-Alpha-VLLM/Lumina-Image-2.0
-deepseek-ai/Janus-Pro-1B
-deepseek-ai/Janus-Pro-7B
+Lumina-Image-2.0
+DeepSeek Janus-Pro 1B VQ autoregressive image generator
+Janus-Pro-7B
 lodestones/Chroma
-zai-org/CogView4-6B
+CogView4-6B
 Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers
 Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers
 Efficient-Large-Model/Sana_Sprint_1.6B_1024px_diffusers
 Efficient-Large-Model/Sana_Sprint_0.6B_1024px_diffusers
-HiDream-ai/HiDream-I1-Dev
-HiDream-ai/HiDream-I1-Fast
-HiDream-ai/HiDream-I1-Full
-ByteDance-Seed/BAGEL-7B-MoT
-OmniGen2/OmniGen2
-black-forest-labs/FLUX.1-Kontext-dev
-black-forest-labs/FLUX.1-Kontext-dev-NVFP4
-MeissonFlow/Muddit
-step1x-edit
+HiDream-I1 Dev
+HiDream-I1 Fast
+HiDream-I1 Full
+BAGEL-7B-MoT
+OmniGen2
+FLUX.1 Kontext [dev]
+FLUX.1 Kontext-dev NVFP4
+Muddit symmetric masked-token text-to-image generator
+Step1X-Edit v1.1 native T2I
 lodestones/Chroma1-Base
-black-forest-labs/FLUX.1-Krea-dev
-Qwen/Qwen-Image
+FLUX.1 Krea [dev]
+Qwen-Image
 lodestones/Chroma1-Flash
 lodestones/Chroma1-HD
-tencent/HunyuanImage-2.1
-tencent/HunyuanImage-3.0
+HunyuanImage-2.1
+HunyuanImage 3.0
 lodestones/Chroma1-Radiance
-BAAI/Emu3.5
-BAAI/Emu3.5-Image
-briaai/FIBO
-kandinskylab/Kandinsky-5.0-T2I-Lite-pretrain-Diffusers
-kandinskylab/Kandinsky-5.0-T2I-Lite-sft-Diffusers
-black-forest-labs/FLUX.2-dev
-black-forest-labs/FLUX.2-dev-NVFP4
-Tongyi-MAI/Z-Image-Turbo
-apple/starflow
-meituan-longcat/LongCat-Image
-Qwen/Qwen-Image-2512
-zai-org/GLM-Image
-black-forest-labs/FLUX.2-klein-4B
-black-forest-labs/FLUX.2-klein-4b-fp8
-black-forest-labs/FLUX.2-klein-4b-nvfp4
-black-forest-labs/FLUX.2-klein-9B
-black-forest-labs/FLUX.2-klein-9b-fp8
-black-forest-labs/FLUX.2-klein-9b-nvfp4
-black-forest-labs/FLUX.2-klein-base-4B
-black-forest-labs/FLUX.2-klein-base-4b-fp8
-black-forest-labs/FLUX.2-klein-base-4b-nvfp4
-black-forest-labs/FLUX.2-klein-base-9B
-black-forest-labs/FLUX.2-klein-base-9b-fp8
-black-forest-labs/FLUX.2-klein-base-9b-nvfp4
-briaai/Fibo-lite
-tencent/HunyuanImage-3.0-Instruct
-tencent/HunyuanImage-3.0-Instruct-Distil
-Tongyi-MAI/Z-Image
-black-forest-labs/FLUX.2-klein-9b-kv
-black-forest-labs/FLUX.2-klein-9b-kv-fp8
-baidu/ERNIE-Image
-baidu/ERNIE-Image-Turbo
-sensenova/SenseNova-U1-8B-MoT
-sensenova/SenseNova-U1-8B-MoT-SFT
-sensenova/SenseNova-U1-8B-MoT-8step-preview
-sensenova/SenseNova-U1-8B-MoT+SenseNova-U1-8B-MoT-LoRA-8step-V1.0.safetensors
-HiDream-ai/HiDream-O1-Image
-HiDream-ai/HiDream-O1-Image-Dev
-sensenova/SenseNova-U1-A3B-MoT
-sensenova/SenseNova-U1-A3B-MoT-SFT
-HiDream-ai/HiDream-O1-Image-Dev-2604
-sensenova/SenseNova-U1-8B-MoT-Infographic
-nvidia/Cosmos3-Nano
-nvidia/Cosmos3-Super
-nvidia/Cosmos3-Super-Text2Image
-sensenova/SenseNova-U1-8B-MoT-Interleaved
-sensenova/SenseNova-U1-8B-MoT-Infographic+SenseNova-U1-8B-MoT-Infographic-LoRA-8step-V1.0.safetensors
-krea/Krea-2-Raw
-krea/Krea-2-Turbo
-krea/Krea-2-LoRA-darkbrush
-krea/Krea-2-LoRA-dotmatrix
-krea/Krea-2-LoRA-kidsdrawing
-krea/Krea-2-LoRA-neondrip
-krea/Krea-2-LoRA-rainywindow
-krea/Krea-2-LoRA-retroanime
-krea/Krea-2-LoRA-softwatercolor
-krea/Krea-2-LoRA-sunsetblur
-krea/Krea-2-LoRA-vintagetarot
-sensenova/SenseNova-U1-8B-MoT-Infographic-V2
-sensenova/SenseNova-U1-8B-MoT-Infographic-V3
-nvidia/Cosmos3-Edge
-nvidia/Cosmos3-Super-Text2Image-4Step
-sensenova/SenseNova-U1.5-8B-MoT-Preview
-sensenova/SenseNova-U1.5-8B-MoT
-sensenova/SenseNova-U1.5-8B-MoT-SFT
-sensenova/SenseNova-U1.5-8B-MoT+SenseNova-U1.5-8B-MoT-LoRA-8step.safetensors
-briaai/Fibo-1.5
-Qwen/Qwen-Image-2.1
-inclusionAI/Ming-Image-0.1-Design
-sensenova/SenseNova-U1.5-8B-MoT+SenseNova-U1.5-8B-MoT-LoRA-8step-V2.safetensors
-Qwen/Qwen-Image-2.1-Turbo
+BAAI Emu3.5 general multimodal image generation
+BAAI Emu3.5 Image-specialized generator
+BRIA FIBO
+Kandinsky 5.0 T2I Lite pretrain
+Kandinsky 5.0 T2I Lite SFT
+FLUX.2-dev
+FLUX.2-dev NVFP4
+Z-Image-Turbo
+Apple STARFlow 3B text-to-image
+LongCat-Image
+Qwen-Image-2512
+GLM-Image
+FLUX.2-klein-4B
+FLUX.2-klein 4B FP8
+FLUX.2-klein 4B NVFP4
+FLUX.2-klein-9B
+FLUX.2-klein 9B FP8
+FLUX.2-klein 9B NVFP4
+FLUX.2 Klein Base 4B
+FLUX.2-klein Base 4B FP8
+FLUX.2-klein Base 4B NVFP4
+FLUX.2 Klein Base 9B
+FLUX.2-klein Base 9B FP8
+FLUX.2-klein Base 9B NVFP4
+BRIA FIBO Lite
+HunyuanImage-3.0-Instruct
+HunyuanImage 3.0 Instruct Distil
+Tongyi-MAI Z-Image 6B continuous-flow generator
+FLUX.2 Klein 9B KV
+FLUX.2-klein 9B KV FP8
+ERNIE-Image
+ERNIE-Image-Turbo
+SenseNova-U1 final T2I-RL (50-step)
+SenseNova-U1 SFT-stage generator
+SenseNova-U1 deprecated 8-step preview
+SenseNova-U1 generic 8-step LoRA V1.0
+HiDream-O1-Image
+HiDream O1 Image Dev
+SenseNova-U1 A3B MoE final/RL
+SenseNova-U1 A3B MoE SFT-stage
+HiDream O1 Image Dev 2604
+SenseNova-U1 infographic
+NVIDIA Cosmos 3 Nano
+NVIDIA Cosmos 3 Super
+Cosmos3-Super-Text2Image
+SenseNova-U1 interleaved unified generator
+SenseNova-U1 Infographic 8-step LoRA V1.0
+Krea 2 Raw
+Krea 2 Turbo
+Krea 2 Turbo + darkbrush LoRA
+Krea 2 Turbo + dotmatrix LoRA
+Krea 2 Turbo + kidsdrawing LoRA
+Krea 2 Turbo + neondrip LoRA
+Krea 2 Turbo + rainywindow LoRA
+Krea 2 Turbo + retroanime LoRA
+Krea 2 Turbo + softwatercolor LoRA
+Krea 2 Turbo + sunsetblur LoRA
+Krea 2 Turbo + vintagetarot LoRA
+SenseNova-U1 infographic V2
+SenseNova-U1 infographic V3
+NVIDIA Cosmos 3 Edge
+Cosmos3 Super Text2Image distilled 4-step (SGLang native)
+SenseNova-U1.5 preview generator
+SenseNova-U1.5 final/RL with ConvDecoder
+SenseNova-U1.5 SFT-stage ConvDecoder
+SenseNova-U1.5 original 8-step LoRA
+BRIA FIBO 1.5
+Qwen-Image-2.1
+Ming-Image-0.1-Design
+SenseNova-U1.5 recommended 8-step LoRA V2
+Qwen-Image-2.1-Turbo
