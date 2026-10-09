@@ -1,0 +1,126 @@
+SDXL Base 0.9
+SDXL base 0.9 → refiner 0.9
+Kandinsky 2.1 prior + decoder
+Kandinsky 2.2 prior + decoder
+SDXL Base 1.0
+SDXL base 1.0 → refiner 1.0
+Wuerstchen v2 base prior + decoder
+PixArt-XL-2-1024-MS
+LCM-LoRA SDXL
+LCM-LoRA SSD-1B
+Kandinsky 3 Diffusers
+Stable Cascade
+Playground v2.5 1024px Aesthetic
+SDXL Lightning
+Kandinsky 3.1 Flash native
+PixArt-Sigma-XL-2-1024-MS
+Hyper-SD
+HunyuanDiT
+Stable Diffusion 3 Medium
+Kolors
+FLUX.1 [schnell]
+FLUX.1-dev
+FLUX.1-dev FP8
+FLUX.1-dev NVFP4
+AuraFlow v0.3
+CogView3 Plus 3B
+OmniGen-v1
+Stable Diffusion 3.5 Large
+Stable Diffusion 3.5 Large Turbo
+BAAI Emu3-Gen HF integrated image generator
+Stable Diffusion 3.5 Medium
+Efficient-Large-Model/Sana_1600M_1024px_diffusers
+Efficient-Large-Model/Sana_1600M_1024px_BF16_diffusers
+Efficient-Large-Model/Sana_1600M_1024px_MultiLing_diffusers
+Infinity 2B
+Efficient-Large-Model/Sana_1600M_4Kpx_BF16_diffusers
+Lumina-Image-2.0
+lodestones/Chroma
+CogView4-6B
+Efficient-Large-Model/SANA1.5_4.8B_1024px_diffusers
+Efficient-Large-Model/SANA1.5_1.6B_1024px_diffusers
+Efficient-Large-Model/Sana_Sprint_1.6B_1024px_diffusers
+HiDream-I1 Dev
+HiDream-I1 Fast
+HiDream-I1 Full
+BAGEL-7B-MoT
+OmniGen2
+FLUX.1 Kontext [dev]
+FLUX.1 Kontext-dev NVFP4
+Muddit symmetric masked-token text-to-image generator
+Step1X-Edit v1.1 native T2I
+lodestones/Chroma1-Base
+FLUX.1 Krea [dev]
+Qwen-Image
+lodestones/Chroma1-Flash
+lodestones/Chroma1-HD
+HunyuanImage-2.1
+HunyuanImage 3.0
+lodestones/Chroma1-Radiance
+BAAI Emu3.5 Image-specialized generator
+BAAI Emu3.5 general multimodal image generation
+BRIA FIBO
+Kandinsky 5.0 T2I Lite SFT
+Kandinsky 5.0 T2I Lite pretrain
+FLUX.2-dev
+FLUX.2-dev NVFP4
+Z-Image-Turbo
+LongCat-Image
+Qwen-Image-2512
+GLM-Image
+BRIA FIBO Lite
+FLUX.2 Klein Base 4B
+FLUX.2 Klein Base 9B
+FLUX.2-klein 4B FP8
+FLUX.2-klein 4B NVFP4
+FLUX.2-klein 9B FP8
+FLUX.2-klein 9B NVFP4
+FLUX.2-klein Base 4B FP8
+FLUX.2-klein Base 4B NVFP4
+FLUX.2-klein Base 9B FP8
+FLUX.2-klein Base 9B NVFP4
+FLUX.2-klein-4B
+FLUX.2-klein-9B
+HunyuanImage 3.0 Instruct Distil
+HunyuanImage-3.0-Instruct
+Tongyi-MAI Z-Image 6B continuous-flow generator
+FLUX.2 Klein 9B KV
+FLUX.2-klein 9B KV FP8
+ERNIE-Image
+ERNIE-Image-Turbo
+SenseNova-U1 SFT-stage generator
+SenseNova-U1 final T2I-RL (50-step)
+SenseNova-U1 deprecated 8-step preview
+SenseNova-U1 generic 8-step LoRA V1.0
+HiDream O1 Image Dev
+HiDream-O1-Image
+SenseNova-U1 A3B MoE SFT-stage
+SenseNova-U1 A3B MoE final/RL
+HiDream O1 Image Dev 2604
+Cosmos3-Super-Text2Image
+NVIDIA Cosmos 3 Nano
+NVIDIA Cosmos 3 Super
+SenseNova-U1 interleaved unified generator
+SenseNova-U1 Infographic 8-step LoRA V1.0
+Krea 2 Raw
+Krea 2 Turbo
+Krea 2 Turbo + darkbrush LoRA
+Krea 2 Turbo + dotmatrix LoRA
+Krea 2 Turbo + kidsdrawing LoRA
+Krea 2 Turbo + neondrip LoRA
+Krea 2 Turbo + rainywindow LoRA
+Krea 2 Turbo + retroanime LoRA
+Krea 2 Turbo + softwatercolor LoRA
+Krea 2 Turbo + sunsetblur LoRA
+Krea 2 Turbo + vintagetarot LoRA
+SenseNova-U1 infographic V2
+SenseNova-U1 infographic V3
+Cosmos3 Super Text2Image distilled 4-step (SGLang native)
+SenseNova-U1.5 preview generator
+SenseNova-U1.5 SFT-stage ConvDecoder
+SenseNova-U1.5 final/RL with ConvDecoder
+SenseNova-U1.5 original 8-step LoRA
+BRIA FIBO 1.5
+Qwen-Image-2.1
+Ming-Image-0.1-Design
+SenseNova-U1.5 recommended 8-step LoRA V2
