@@ -97,6 +97,7 @@ HiDream-O1-Image
 SenseNova-U1 A3B MoE SFT-stage
 SenseNova-U1 A3B MoE final/RL
 HiDream O1 Image Dev 2604
+SenseNova-U1 infographic
 Cosmos3-Super-Text2Image
 NVIDIA Cosmos 3 Nano
 NVIDIA Cosmos 3 Super
@@ -124,3 +125,4 @@ BRIA FIBO 1.5
 Qwen-Image-2.1
 Ming-Image-0.1-Design
 SenseNova-U1.5 recommended 8-step LoRA V2
+Qwen-Image-2.1-Turbo
